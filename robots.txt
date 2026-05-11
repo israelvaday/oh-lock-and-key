@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /thank-you
+
+Host: https://ohlockandkey.com
+Sitemap: https://ohlockandkey.com/sitemap.xml
